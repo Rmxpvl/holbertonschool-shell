@@ -1,2 +1,2 @@
 #!/bin/bash
-/bin/bash: line 1: q: command not found
+find . -type d -exec chmod a+x {} \;
