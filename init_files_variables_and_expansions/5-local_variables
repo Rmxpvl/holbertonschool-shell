@@ -1,4 +1,2 @@
 #!/bin/bash
-declare -p
-printenv
-declare -F
+declare -p; printenv; declare -F
