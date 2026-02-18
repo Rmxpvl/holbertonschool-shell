@@ -1,2 +1,3 @@
 #!/bin/bash
-{ declare -p; printenv; declare -F; }
+declare -xp
+declare -F
